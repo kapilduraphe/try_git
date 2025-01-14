@@ -1,1 +1,3 @@
-Hello word
+Hello world. 
+
+Validate MCP
